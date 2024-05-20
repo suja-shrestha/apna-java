@@ -9,7 +9,7 @@ public class Comparestring {
         else{
             System.out.println("not equal");
         }
-        //use compareto to compare strings dont use == it may fail in some cases
+        //use compareTo to compare strings dont use == it may fail in some cases
         //example below;
         if(new String("tony")== new String("tony")){
 
